@@ -12,9 +12,13 @@ picture: assets/images/me.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: http://vmous.is-a-geek.com
+
+# Wiki
+wiki: true
+wiki-url: http://jazzman.webhop.net
 
 # your url: http://USERNAME.github.io
 url: https://vmous.github.io
@@ -76,7 +80,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
