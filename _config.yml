@@ -14,7 +14,7 @@ picture: assets/images/me.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: http://vmous.is-a-geek.com
+resume-url: http://vmous.duckdns.org
 
 # Wiki
 wiki: true
